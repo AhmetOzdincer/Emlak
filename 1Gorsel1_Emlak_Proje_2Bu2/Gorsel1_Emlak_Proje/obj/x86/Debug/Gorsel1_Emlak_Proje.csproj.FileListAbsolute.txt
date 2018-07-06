@@ -1,0 +1,166 @@
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\Ahmet\Documents\Visual Studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Documents\Visual Studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\Ahmet\documents\visual studio 2010\Projects\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Downloads\Gorsel1_Emlak_Proje (1)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\Ahmet\Downloads\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Desktop\Gorsel1_Emlak_Proje-2Bu1\Gorsel1_Emlak_Proje-2Bu\Gorsel1_Emlak_Proje (2Bu)\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Google Drive\2015-2016\18Gorsel1_Emlak_Proje\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\mesut\Downloads\1Gorsel1_Emlak_Proje_2Bu2.rar\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Downloads\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\Ahmet\Downloads\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+D:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csprojResolveAssemblyReference.cache
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+E:\PAÜ DERS NOTLARI\2.Sınıf\2.Dönem\GÖRSEL PROGRAMLAMA 1\Proje\1Gorsel1_Emlak_Proje_2Bu2\1Gorsel1_Emlak_Proje_2Bu2\Gorsel1_Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.csproj.GenerateResource.Cache
